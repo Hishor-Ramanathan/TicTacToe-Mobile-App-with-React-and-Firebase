@@ -1,0 +1,8 @@
++ react-dom@18.2.0
+added 2 packages and audited 1150 packages in 15.298s
+
+56 packages are looking for funding
+  run `npm fund` for details
+
+found 1 high severity vulnerability
+  run `npm audit fix` to fix them, or `npm audit` for details
